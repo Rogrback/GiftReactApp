@@ -1,0 +1,5 @@
+PAGINA DE GIPHY
+https://developers.giphy.com
+
+API Key
+9azESVcIOPwteB5BcrIGcJ4uIru8PGR0
